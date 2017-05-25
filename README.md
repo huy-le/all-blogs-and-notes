@@ -17,4 +17,4 @@ Git: I use git to store history. I can search by time, as well as content.
 
 # Manually commit
 
-Because I haven't had a bot yet, so I will write a script to commit it manually.
+Because I haven't had a bot yet, so I will write a script to commit it manually. It is inside `s.sh`.
