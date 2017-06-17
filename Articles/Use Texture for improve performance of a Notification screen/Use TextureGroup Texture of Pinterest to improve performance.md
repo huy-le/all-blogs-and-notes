@@ -33,3 +33,20 @@ Recommend from Texture team that we should use Node Container as a Middleware wi
 ## Why do we have to use Node Container
 
 Because it manages intelligent preloading.
+
+
+# Implement Texture
+
+## MultiColumnView
+
+Is a challenge but I think there is a significant improve for the collectionView.
+
+### Step
+- I create a Subclass JIRACollection of ASCollectionNode. Then replace UICollectionView in MultiColumnView.
+- If there is a problem with compiler, I add a fake function or property in JIRACollection.
+
+# Notes
+## Pros
+
+## Cons
+Don't have baseline for Dynamic text.
